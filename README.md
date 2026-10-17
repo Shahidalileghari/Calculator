@@ -1,16 +1,19 @@
-# example
+# Flutter Calculator 📱
 
-A new Flutter project.
+A fully functional calculator application built with Flutter and Dart, featuring a modern interface and support for basic and advanced mathematical operations.
 
-## Getting Started
+## Features
+- Addition, subtraction, multiplication, and division
+- Percentage and decimal calculations
+- Clear and delete functionality
+- Real-time expression and result display
+- Responsive and user-friendly interface
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Author
+**Shahid Ali Leghari**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+GitHub: [@Shahidalileghari](https://github.com/Shahidalileghari)
